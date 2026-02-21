@@ -13,7 +13,8 @@ Improve your speed, accuracy, and confidence for the exam.
 By Founder of EducationCode – Vishal Bhagat 🚀
 
 
-![Logo](https://example.com/Yt.png)
+![YouTube Logo](imgaes/YT.png)
+
 
 
 
