@@ -9,11 +9,12 @@ Practice for MCA CET / BCA CET / Any CET with:
 
 Improve your speed, accuracy, and confidence for the exam.
 
-🔗 Start Practice Now: [https://vishal-bhagat.vercel.app/ ]
+🔗 Start Practice Now: [ https://educationcode-cet-by-vishalbhagat.vercel.app/ ]
 By Founder of EducationCode – Vishal Bhagat 🚀
 
 
 ![YouTube](Image/YT.png)
+
 
 
 
