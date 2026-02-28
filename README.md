@@ -1,4 +1,4 @@
-﻿# EducationCode-
+﻿# EducationCode- 🎓
 👏🎯 Free MCQ Platform for CET Preparation
 
 Practice for MCA CET / BCA CET / Any CET with:
@@ -14,6 +14,7 @@ By Founder of EducationCode – Vishal Bhagat 🚀
 
 
 ![YouTube](Image/YT.png)
+
 
 
 
